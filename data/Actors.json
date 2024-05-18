@@ -1,7 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor2_4","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"你","nickname":"你","note":"","profile":"未定"},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"福斯特","nickname":"福斯特","note":"","profile":"未定"}
 ]
