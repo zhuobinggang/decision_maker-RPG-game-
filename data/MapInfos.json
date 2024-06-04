@@ -6,6 +6,6 @@ null,
 {"id":4,"expanded":false,"name":"低矮平原","order":4,"parentId":0,"scrollX":459,"scrollY":309.5},
 {"id":5,"expanded":false,"name":"低矮森林","order":5,"parentId":0,"scrollX":459,"scrollY":309.5},
 {"id":6,"expanded":true,"name":"王城大街","order":6,"parentId":0,"scrollX":459,"scrollY":309.5},
-{"id":7,"expanded":true,"name":"王城大街剧情","order":7,"parentId":0,"scrollX":459,"scrollY":309.5},
-{"id":8,"expanded":false,"name":"酒馆剧情","order":8,"parentId":0,"scrollX":459,"scrollY":309.5}
+{"id":7,"expanded":true,"name":"王城大街剧情","order":7,"parentId":0,"scrollX":844.6666666666666,"scrollY":542.6666666666666},
+{"id":8,"expanded":false,"name":"酒馆剧情","order":8,"parentId":0,"scrollX":844.6666666666666,"scrollY":542.6666666666666}
 ]
