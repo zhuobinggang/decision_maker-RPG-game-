@@ -2,7 +2,9 @@ node_modules
 audio
 fonts
 icon
-img
+*\.png
+!*Taku*\.png
+img/tilesets/*\.txt
 movies
 js/plugins
 js/libs/dragonbones
